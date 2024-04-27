@@ -65,4 +65,4 @@ Si vous voulez parler de technologie, d'innovation, ou de la meilleure manière 
 - 🔗 [https://www.linkedin.com/in/charles-bourgault-407694300]
 - 📱 WhatsApp: [Cliquez ici pour discuter](https://wa.me/33642663300)
 
-### - 📄 Téléchargez mon CV ici : [Télécharger CV](CV_Charles_BOURGAULT.pdf)
+### - 📄 Téléchargez mon CV [ici](CV_Charles_BOURGAULT.pdf)
