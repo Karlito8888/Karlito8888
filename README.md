@@ -44,9 +44,9 @@ Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
 ![SEO](https://img.shields.io/badge/SEO-%23E34F26.svg?style=for-the-badge&logo=seo&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23F05032.svg?style=for-the-badge&logo=responsive&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-orange.svg?style=for-the-badge&logo=api&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=flat&logo=wordpress)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=tailwind-css)
+![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ...
 
 - Et bien plus, mais il faut bien garder quelques secrets... 😉
 
