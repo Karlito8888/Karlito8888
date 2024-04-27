@@ -26,8 +26,7 @@ Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
 ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/javascript-%23EDD718.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-blue.svg)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### - Frameworks et bibliothèques
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +34,7 @@ Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/django-green.svg)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### - Outils et technologies
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +43,7 @@ Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![SEO](https://img.shields.io/badge/SEO-%23E34F26.svg?style=for-the-badge&logo=seo&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23F05032.svg?style=for-the-badge&logo=responsive&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-orange.svg)
+![API REST](https://img.shields.io/badge/API-REST-orange.svg?style=for-the-badge&logo=api&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=flat&logo=wordpress)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=tailwind-css)
