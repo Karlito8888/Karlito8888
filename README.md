@@ -2,12 +2,12 @@
 
 Bienvenue sur mon GitHub ! 🚀
 
-Je suis ravi de partager mon parcours avec vous ! 
-J'ai récemment terminé ma formation chez OpenClassRooms, où j'ai obtenu mon titre professionnel d'Intégrateur Web. 💻✨ 
+Je suis ravi de partager mon parcours avec vous !<br>
+J'ai récemment terminé ma formation chez OpenClassRooms, où j'ai obtenu mon titre professionnel d'Intégrateur Web. 💻✨<br>
 Cette expérience m'a permis de maîtriser le front-end et de créer des projets passionnants qui reflètent ma passion pour le développement.
 
-Dans un avenir proche, je vais plonger dans une nouvelle aventure : une formation en Développement Python ! 🐍💡 
-Je suis impatient d'apprendre les subtilités de ce langage polyvalent et de découvrir comment il peut enrichir mes compétences en développement. 
+Dans un avenir proche, je vais plonger dans une nouvelle aventure : une formation en Développement Python ! 🐍💡<br>
+Je suis impatient d'apprendre les subtilités de ce langage polyvalent et de découvrir comment il peut enrichir mes compétences en développement.<br>
 Mon objectif est de créer des applications dynamiques et d'explorer le monde des données.
 
 Je vous invite à parcourir mes repos pour découvrir mes projets et suivre mes avancées dans cette quête d'apprentissage et de créativité ! 🎉
