@@ -1,16 +1,16 @@
 # Bonjour, je suis Charles 👋
 
-Bienvenue sur mon GitHub, le seul endroit où fusionner des repos peut faire disparaître vos contributions plus efficacement qu'un tour de magie ! 😅
+Bienvenue sur mon GitHub ! 🚀
 
-Je m'explique... 
-➡️ Autrefois, j'avais une collection de repos individuels, un peu comme un collectionneur d'art qui aime montrer chaque pièce séparément. 
-Mais avec le temps et la création de mon premier portfolio, 💡 j'ai décidé de simplifier les choses...💪
+Je suis ravi de partager mon parcours avec vous ! 
+J'ai récemment terminé ma formation chez OpenClassRooms, où j'ai obtenu mon titre professionnel d'Intégrateur Web. 💻✨ 
+Cette expérience m'a permis de maîtriser le front-end et de créer des projets passionnants qui reflètent ma passion pour le développement.
 
-Résultat ? J'ai consolidé la plupart de ces projets en un seul super-repo. 🦸‍♂️
-Mais... malheureusement, dans ce processus, mes précieux carrés verts de commits 🟩 ont disparu 💣 comme par enchantement. 😰
+Dans un avenir proche, je vais plonger dans une nouvelle aventure : une formation en Développement Python ! 🐍💡 
+Je suis impatient d'apprendre les subtilités de ce langage polyvalent et de découvrir comment il peut enrichir mes compétences en développement. 
+Mon objectif est de créer des applications dynamiques et d'explorer le monde des données.
 
-Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
-👉 Cela dit, ne vous inquiétez pas, la magie est toujours là, bien cachée dans le code ! ✨🙈
+Je vous invite à parcourir mes repos pour découvrir mes projets et suivre mes avancées dans cette quête d'apprentissage et de créativité ! 🎉
 
 ### Quelques faits rapides sur moi :
 - 🎓 Auto-didacte passionné, ayant suivi des formations sur OpenClassrooms, apprendre-a-coder.com, et fromscratch.podia.com.
@@ -44,13 +44,10 @@ Si vous ne les voyez pas, c'est qu'ils font juste une petite sieste. 😅
 ### - Outils et technologies
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-%2300f.svg?style=for-the-badge&logo=ajax&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![SEO](https://img.shields.io/badge/SEO-%23E34F26.svg?style=for-the-badge&logo=seo&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23F05032.svg?style=for-the-badge&logo=responsive&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-orange.svg?style=for-the-badge&logo=api&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white)...
 
