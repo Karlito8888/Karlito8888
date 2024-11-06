@@ -55,6 +55,7 @@ Je vous invite à parcourir mes repos pour découvrir mes projets et suivre mes 
 
 ### Le projet dont je suis fier ?
 - 📦 Mon Portfolio Personnel : Partir de zéro et apprendre en autodidacte à créer un portfolio professionnel est une expérience qui m'a beaucoup enseigné. Ce projet n'est pas seulement une vitrine de mes compétences en développement, mais également la preuve de ma capacité à maîtriser de nouvelles technologies rapidement. Utilisant React et Vite, j'ai pu construire un site performant et moderne qui met en valeur mes projets et mon parcours en développement web. Ce portfolio est le témoignage de mon engagement envers l'apprentissage continu et l'innovation dans le domaine du développement web. 
+
 [https://charles-bourgault.netlify.app/]
 
 ### Parlons !
